@@ -1,0 +1,211 @@
+,Place,Event,Magnitude
+2024-02-08,Norwood Park,Hail,1.00in.
+2024-02-27,Streamwood,Tornado,EF0
+2024-02-27,Elgin,Hail,1.00in.
+2024-02-27,Hoffman Estates,Tornado,EF1
+2024-02-27,South Barrington,Tornado,EF1
+2024-02-27,Hoffman Estates,Hail,1.00in.
+2024-02-27,Schaumburg,Thunderstorm Wind,52kts.EG
+2024-02-27,Inverness,Thunderstorm Wind,65kts.EG
+2024-02-27,Inverness,Thunderstorm Wind,70kts.EG
+2024-02-27,Inverness,Thunderstorm Wind,70kts.EG
+2024-02-27,Plum Grove Estates,Thunderstorm Wind,56kts.MG
+2024-02-27,Inverness,Thunderstorm Wind,70kts.EG
+2024-02-27,Inverness,Thunderstorm Wind,70kts.EG
+2024-02-27,Palatine,Thunderstorm Wind,71kts.MG
+2024-02-27,Inverness,Thunderstorm Wind,54kts.MG
+2024-02-27,Inverness,Thunderstorm Wind,70kts.EG
+2024-02-27,Inverness,Thunderstorm Wind,70kts.EG
+2024-02-27,Inverness,Thunderstorm Wind,70kts.EG
+2024-02-27,La Grange Park,Hail,1.00in.
+2024-02-27,Lemont,Hail,1.00in.
+2024-02-27,Burbank,Hail,1.00in.
+2024-02-27,Archer Heights,Flood,None
+2024-02-27,Oak Lawn,Hail,1.50in.
+2024-02-27,Orland Hills,Hail,1.25in.
+2024-02-27,Oak Forest,Hail,1.50in.
+2024-02-27,Oak Forest,Hail,2.00in.
+2024-02-27,Midlothian,Hail,1.50in.
+2024-02-27,Hegewisch,Hail,1.75in.
+2024-03-04,La Grange,Hail,1.00in.
+2024-03-14,Burr Ridge,Flood,None
+2024-03-14,Englewood,Flood,None
+2024-03-14,Oak Forest,Flood,None
+2024-03-26,Lakeview,Thunderstorm Wind,50kts.EG
+2024-03-26,Uptown,Thunderstorm Wind,50kts.MG
+2024-05-02,Logan Square,Thunderstorm Wind,55kts.EG
+2024-05-02,Bucktown,Thunderstorm Wind,55kts.EG
+2024-05-02,Bucktown,Thunderstorm Wind,51kts.MG
+2024-05-02,East Pilsen,Flood,None
+2024-05-02,Bartlett,Thunderstorm Wind,50kts.EG
+2024-05-02,Bridgeview,Hail,1.00in.
+2024-05-07,Merrionette Park,Hail,1.00in.
+2024-05-07,Beverly,Hail,1.00in.
+2024-05-07,Evergreen Park,Hail,1.00in.
+2024-05-07,Tinley Park,Hail,2.00in.
+2024-05-07,Tinley Park,Hail,1.75in.
+2024-05-07,Orland Hills,Hail,1.00in.
+2024-05-07,Tinley Park,Hail,1.00in.
+2024-05-07,Orland Park,Hail,1.25in.
+2024-05-07,Oak Forest,Thunderstorm Wind,50kts.EG
+2024-05-07,Alsip,Thunderstorm Wind,50kts.EG
+2024-05-07,Palos Park,Hail,1.00in.
+2024-05-07,Palos Heights,Flood,None
+2024-05-07,Orland Park,Flood,None
+2024-05-07,Palos Heights,Hail,1.50in.
+2024-05-07,Worth,Hail,1.00in.
+2024-05-07,Crestwood,Hail,1.50in.
+2024-05-07,Crestwood,Hail,1.25in.
+2024-05-07,Oak Forest,Hail,1.25in.
+2024-05-07,Alsip,Hail,1.25in.
+2024-05-07,Oak Lawn,Hail,1.00in.
+2024-05-07,Hometown,Hail,1.00in.
+2024-05-07,Roseland,Thunderstorm Wind,55kts.EG
+2024-05-07,Beverly View,Hail,1.00in.
+2024-05-07,Brainerd,Flash Flood,None
+2024-05-13,Englewood,Flood,None
+2024-05-20,South Barrington,Thunderstorm Wind,52kts.EG
+2024-05-20,Orland Park,Hail,1.00in.
+2024-05-20,Merrionette Park,Thunderstorm Wind,50kts.EG
+2024-05-20,Lincoln Park,Thunderstorm Wind,50kts.EG
+2024-05-20,Lincoln Park,Thunderstorm Wind,50kts.EG
+2024-05-20,Morgan Park,Thunderstorm Wind,55kts.EG
+2024-05-20,Beverly,Thunderstorm Wind,55kts.EG
+2024-05-20,Roseland,Thunderstorm Wind,55kts.EG
+2024-05-20,Chatham,Thunderstorm Wind,55kts.EG
+2024-05-21,Northern Cook County (Zo...,High Wind,50kts.EG
+2024-05-21,Central Cook County (Zon...,High Wind,55kts.EG
+2024-05-21,Northern Cook County (Zo...,High Wind,50kts.EG
+2024-05-22,Central Cook County (Zon...,High Wind,50kts.MG
+2024-05-22,Northern Cook County (Zo...,High Wind,50kts.EG
+2024-05-24,Morgan Park,Thunderstorm Wind,50kts.EG
+2024-05-24,Chatham,Thunderstorm Wind,50kts.EG
+2024-05-26,Archer Heights,Flood,None
+2024-06-04,Chicago Lawn,Thunderstorm Wind,56kts.EG
+2024-06-04,Austin,Thunderstorm Wind,52kts.EG
+2024-06-04,Irving Park,Thunderstorm Wind,52kts.EG
+2024-06-06,Blue Island,Flood,None
+2024-06-06,Cook (Zone),High Wind,39kts.EG
+2024-06-16,Jefferson Park,Thunderstorm Wind,52kts.EG
+2024-06-16,West Humboldt Park,Thunderstorm Wind,52kts.EG
+2024-06-16,Burnside,Thunderstorm Wind,52kts.EG
+2024-06-17,Central Cook County (Zon...,Strong Wind,23kts.MG
+2024-06-22,Indian Head Park,Thunderstorm Wind,52kts.EG
+2024-06-22,Archer Heights,Flash Flood,None
+2024-06-22,Greater Grand Crossing,Flash Flood,None
+2024-06-25,Wheeling,Thunderstorm Wind,52kts.EG
+2024-06-25,Norwood Park,Thunderstorm Wind,52kts.EG
+2024-06-25,Harwood Heights,Thunderstorm Wind,52kts.EG
+2024-06-25,Old Irving Park,Thunderstorm Wind,52kts.EG
+2024-06-30,Northern Cook County (Zo...,Rip Current,None
+2024-07-01,Central Cook County (Zon...,Rip Current,None
+2024-07-09,Calumet City,Flash Flood,None
+2024-07-13,East Pilsen,Flood,None
+2024-07-13,Archer Heights,Flood,None
+2024-07-13,Englewood,Flood,None
+2024-07-13,Roseland,Flood,None
+2024-07-14,Bartlett,Flood,None
+2024-07-14,Western Springs,Tornado,EF0
+2024-07-14,(Mdw) Chicago Midway Air...,Tornado,EF0
+2024-07-14,(Mdw) Chicago Midway Air...,Thunderstorm Wind,51kts.MG
+2024-07-14,Burbank,Thunderstorm Wind,52kts.MG
+2024-07-14,(Mdw) Chicago Midway Air...,Thunderstorm Wind,60kts.EG
+2024-07-14,Belmont Cragin,Thunderstorm Wind,60kts.EG
+2024-07-14,Englewood,Tornado,EF0
+2024-07-14,Burbank,Heavy Rain,None
+2024-07-14,Bucktown,Thunderstorm Wind,50kts.EG
+2024-07-14,Lakeview,Thunderstorm Wind,51kts.MG
+2024-07-14,Avondale,Thunderstorm Wind,50kts.MG
+2024-07-14,Lakeview,Thunderstorm Wind,55kts.EG
+2024-07-15,Bartlett,Thunderstorm Wind,70kts.EG
+2024-07-15,Streamwood,Thunderstorm Wind,65kts.EG
+2024-07-15,Hanover Park,Thunderstorm Wind,70kts.EG
+2024-07-15,Elk Grove Village,Thunderstorm Wind,60kts.EG
+2024-07-15,Orland Park,Thunderstorm Wind,50kts.EG
+2024-07-15,Broadview,Tornado,EF0
+2024-07-15,Willow Springs,Thunderstorm Wind,60kts.EG
+2024-07-15,Willow Springs,Tornado,EF1
+2024-07-15,Bensenville,Tornado,EF0
+2024-07-15,Broadview,Thunderstorm Wind,65kts.EG
+2024-07-15,Matteson,Tornado,EF2
+2024-07-15,Orland Hills,Thunderstorm Wind,50kts.EG
+2024-07-15,Tinley Park,Thunderstorm Wind,65kts.EG
+2024-07-15,Bensenville,Thunderstorm Wind,70kts.EG
+2024-07-15,Bridgeview,Thunderstorm Wind,50kts.EG
+2024-07-15,Forest Park,Thunderstorm Wind,70kts.EG
+2024-07-15,Palos Heights,Tornado,EF0
+2024-07-15,Thornton,Thunderstorm Wind,70kts.EG
+2024-07-15,(Ord) Chicago O'Hare Air...,Thunderstorm Wind,70kts.MG
+2024-07-15,Schiller Park,Thunderstorm Wind,75kts.EG
+2024-07-15,Norridge,Thunderstorm Wind,70kts.EG
+2024-07-15,Flossmoor,Tornado,EF1
+2024-07-15,Norridge,Thunderstorm Wind,65kts.EG
+2024-07-15,Oak Forest,Tornado,EF0
+2024-07-15,Dunning,Thunderstorm Wind,60kts.EG
+2024-07-15,Country Club Hills,Thunderstorm Wind,60kts.EG
+2024-07-15,Country Club Hills,Thunderstorm Wind,65kts.EG
+2024-07-15,Markham,Thunderstorm Wind,60kts.EG
+2024-07-15,Harwood Heights,Thunderstorm Wind,65kts.EG
+2024-07-15,Markham,Tornado,EF0
+2024-07-15,Markham,Thunderstorm Wind,70kts.EG
+2024-07-15,East Garfield Park,Tornado,EF1
+2024-07-15,Ashburn,Tornado,EF1
+2024-07-15,Burnham,Thunderstorm Wind,70kts.EG
+2024-07-15,Calumet City,Thunderstorm Wind,70kts.EG
+2024-07-15,Glenwood,Thunderstorm Wind,70kts.EG
+2024-07-15,Ukrainian Village,Tornado,EF0
+2024-07-15,West Town,Thunderstorm Wind,60kts.EG
+2024-07-15,Lansing,Thunderstorm Wind,78kts.EG
+2024-07-15,Lansing,Thunderstorm Wind,65kts.EG
+2024-07-15,Logan Square,Thunderstorm Wind,50kts.EG
+2024-07-15,Northerly Island,Thunderstorm Wind,61kts.EG
+2024-07-15,Wicker Park,Thunderstorm Wind,62kts.MG
+2024-07-15,Hegewisch,Thunderstorm Wind,50kts.EG
+2024-07-23,Morton Grove,Thunderstorm Wind,60kts.EG
+2024-07-23,Skokie,Thunderstorm Wind,55kts.EG
+2024-07-23,(Mdw) Chicago Midway Air...,Thunderstorm Wind,50kts.EG
+2024-07-23,Burbank,Heavy Rain,None
+2024-07-23,Oak Lawn,Thunderstorm Wind,50kts.EG
+2024-07-23,Scottsdale,Flood,None
+2024-08-05,Edgewater,Hail,1.00in.
+2024-08-05,Trumbull Park,Thunderstorm Wind,52kts.EG
+2024-08-07,Cook (Zone),Rip Current,None
+2024-08-16,Forest Park,Thunderstorm Wind,52kts.EG
+2024-08-16,Oak Park,Thunderstorm Wind,52kts.EG
+2024-08-16,Goose Island,Thunderstorm Wind,54kts.MG
+2024-08-18,Cook (Zone),Rip Current,None
+2024-08-27,Cook (Zone),Seiche,None
+2024-08-27,Cook (Zone),Seiche,None
+2024-08-27,Plum Grove Estates,Thunderstorm Wind,52kts.EG
+2024-08-27,Mt Prospect,Thunderstorm Wind,52kts.EG
+2024-08-27,Evanston,Thunderstorm Wind,52kts.EG
+2024-08-27,Evanston,Thunderstorm Wind,54kts.MG
+2024-08-27,Prospect Heights,Thunderstorm Wind,52kts.EG
+2024-08-27,Rosemont,Thunderstorm Wind,52kts.EG
+2024-08-27,Des Plaines,Thunderstorm Wind,52kts.EG
+2024-08-27,Mt Prospect,Hail,1.00in.
+2024-08-27,Brookfield,Thunderstorm Wind,52kts.EG
+2024-09-24,Chicago,Flood,None
+2024-09-24,Oak Forest,Heavy Rain,None
+2024-09-24,Tinley Park,Flood,None
+2024-09-24,Matteson,Heavy Rain,None
+2024-10-15,Northern Cook County (Zo...,Drought,None
+2024-11-01,Cook (Zone),Drought,None
+2024-12-04,Cook (Zone),High Wind,52kts.MG
+2024-12-04,Cook (Zone),High Wind,50kts.MG
+2024-12-04,Cook (Zone),High Wind,52kts.EG
+2024-12-04,Cook (Zone),Winter Weather,None
+2024-12-04,Cook (Zone),Winter Weather,None
+2025-01-31,East Garfield Park,Flood,None
+2025-01-31,Douglas Park,Flood,None
+2025-01-31,Albany Park,Flood,None
+2025-01-31,Skokie,Flood,None
+2025-01-31,Wheeling,Flood,None
+2025-02-05,Central Cook County (Zon...,Winter Weather,None
+2025-02-05,Southern Cook County (Zo...,Winter Weather,None
+2025-02-05,Northern Cook County (Zo...,Winter Weather,None
+2025-02-08,Southern Cook County (Zo...,Winter Weather,None
+2025-02-08,Central Cook County (Zon...,Winter Weather,None
+2025-02-12,Northern Cook County (Zo...,Winter Weather,None
+2025-02-18,Northern Cook County (Zo...,Cold/wind Chill,None
+2025-02-18,Central Cook County (Zon...,Cold/wind Chill,None
